@@ -1,0 +1,7 @@
+D:\projects\azure-app-phieu\publish\azure-app-phieu.exe
+D:\projects\azure-app-phieu\publish\appsettings.Development.json
+D:\projects\azure-app-phieu\publish\appsettings.json
+D:\projects\azure-app-phieu\publish\azure-app-phieu.dll
+D:\projects\azure-app-phieu\publish\azure-app-phieu.deps.json
+D:\projects\azure-app-phieu\publish\azure-app-phieu.runtimeconfig.json
+D:\projects\azure-app-phieu\publish\azure-app-phieu.pdb
